@@ -249,4 +249,7 @@
     <string name="camera_double_tap_power_gesture_title">Enable double tap to launch</string>
     <string name="camera_double_tap_power_gesture_desc">Double tap on the power button to launch right lockscreen target</string>
 
+    <!-- KernelAdiutor -->
+    <string name="performance_settings">Performance</string>
+
 </resources>

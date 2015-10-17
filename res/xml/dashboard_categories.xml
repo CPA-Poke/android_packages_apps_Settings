@@ -280,6 +280,17 @@
                 android:icon="@drawable/ic_settings_development"
                 />
 
+        <!-- Kernel Auditor App -->
+        <dashboard-tile
+                android:id="@+id/kernel_auditor"
+                android:icon="@drawable/ic_performance"
+                android:title="@string/performance_settings">
+                <intent
+                    android:action="android.intent.action.MAIN"
+                    android:targetPackage="com.grarak.kerneladiutor"
+                    android:targetClass="com.grarak.kerneladiutor.MainActivity" />
+        </dashboard-tile>
+
         <!-- SuperSU -->
         <dashboard-tile
             android:id="@+id/supersu_settings"
