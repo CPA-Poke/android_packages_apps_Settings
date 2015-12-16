@@ -263,4 +263,7 @@
     <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
     <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
 
+    <!-- lock screen visualizer -->
+    <string name="lockscreen_visualizer_title">Display music visualizer</string>
+
 </resources>
