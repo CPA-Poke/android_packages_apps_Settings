@@ -287,7 +287,7 @@
     <string name="dashboard_columns_title">Dashboard Columns</string>
     <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard</string>
     <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
-    <string name="dashboard_columns_default">One (default)</string>
+    <string name="dashboard_columns_one">One</string>
     <string name="dashboard_columns_two">Two</string>
     <string name="dashboard_columns_three">Three</string>
 
@@ -311,5 +311,11 @@
     <string name="heads_up_notifications">Heads up</string>
     <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
     <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
+
+    <!-- Keyguard notifications options -->
+    <string name="app_notification_show_on_keyguard_title">Show on lockscreen</string>
+    <string name="app_notification_show_on_keyguard_summary">Show notifications from this app on the lockscreen</string>
+    <string name="app_notification_no_ongoing_on_keyguard_title">Disable ongoing on lockscreen</string>
+    <string name="app_notification_no_ongoing_on_keyguard_summary">Never show ongoing notifications from this app on the lockscreen</string>
 
 </resources>
